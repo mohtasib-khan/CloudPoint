@@ -1,2 +1,2 @@
 # CloudPoint
-file:///Users/kabirkhan/Desktop/CloudPoint/index.html
+https://mohtasib-khan.github.io/CloudPoint/
